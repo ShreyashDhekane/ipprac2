@@ -279,3 +279,15 @@ footer .contact-info p {
       flex-direction: column;
   }
 }
+.table-container {
+    text-align: center; /* Centers the table within the container */
+}
+
+table {
+    margin: 0 auto; /* Centers the table itself within the container */
+    border-collapse: collapse; /* Optional: for better table border styling */
+}
+
+td {
+    padding: 8px; /* Optional: adds space within table cells */
+}
